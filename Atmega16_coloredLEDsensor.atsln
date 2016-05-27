@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Atmega16_coloredLEDsensor", "Atmega16_coloredLEDsensor\Atmega16_coloredLEDsensor.cproj", "{CAD28B44-B215-4863-BD62-A1C39D5C405A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD28B44-B215-4863-BD62-A1C39D5C405A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CAD28B44-B215-4863-BD62-A1C39D5C405A}.Debug|AVR.Build.0 = Debug|AVR
+		{CAD28B44-B215-4863-BD62-A1C39D5C405A}.Release|AVR.ActiveCfg = Release|AVR
+		{CAD28B44-B215-4863-BD62-A1C39D5C405A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
